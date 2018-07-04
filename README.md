@@ -1,5 +1,5 @@
 # boruvkaqt
 Algorithm Boruvka Solina C++ Qt.
-Алгорит Борувка Солина C++ Qt.
-
+Алгоритм Борувка Солина C++ Qt.
+@author @amirismagilov
 
