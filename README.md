@@ -1,2 +1,5 @@
 # boruvkaqt
-Algorithm Boruvka Solina
+Algorithm Boruvka Solina C++ Qt.
+Алгорит Борувка Солина C++ Qt.
+
+
