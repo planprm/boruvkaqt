@@ -1,0 +1,2 @@
+# boruvkaqt
+Algorithm Boruvka Solina
